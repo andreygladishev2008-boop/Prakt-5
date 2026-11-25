@@ -1,0 +1,23 @@
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\bin\Debug\Практика 5.exe.config
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\bin\Debug\Практика 5.exe
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\bin\Debug\Практика 5.pdb
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.csproj.AssemblyReference.cache
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\GroupsPage.baml
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\GroupFormPage.baml
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\StudentFormPage.baml
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\MainWindow.g.cs
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\GroupsPage.g.cs
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\GroupFormPage.g.cs
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\StudentFormPage.g.cs
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\App.g.cs
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5_MarkupCompile.cache
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5_MarkupCompile.lref
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\MainWindow.baml
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.g.resources
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика_5.Properties.Resources.resources
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.csproj.GenerateResource.cache
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.csproj.CoreCompileInputs.cache
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.exe
+E:\Гладышев Гариев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.pdb
+C:\Гладышев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.exe
+C:\Гладышев\ТРПО\Практика 5\Практика 5\obj\Debug\Практика 5.pdb
